@@ -5,6 +5,12 @@ Equipe: SemNome
 (SM)
 Scrum Master: Wesley Douglas
     
-    Desenvolvedor 1:
-    Habilidades:
-    Experiências:
+    Desenvolvedor 1: Nathalia Catarina Cardoso
+    Habilidades: Programação Python
+    Experiências: Detecção de Máscara Facial 
+    
+    Desenvolvedor 2: 
+    Habilidades: 
+    Experiências: 
+    
+    
