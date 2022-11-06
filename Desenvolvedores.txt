@@ -8,9 +8,8 @@ Scrum Master: Wesley Douglas
     Desenvolvedor 1: Nathalia Catarina Cardoso
     Habilidades: Programação Python
     Experiências: Detecção de Máscara Facial 
-    
-    Desenvolvedor 2:  Luciano Gonçalves
-    Habilidades:Java e Python
-    Experias: SAP
-    
+   
+   Desenvolvedor 2: Luciano Gonçalves
+   Habilidades: Java e Python
+   Experiencias: SAP
     
