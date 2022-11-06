@@ -9,8 +9,8 @@ Scrum Master: Wesley Douglas
     Habilidades: Programação Python
     Experiências: Detecção de Máscara Facial 
     
-    Desenvolvedor 2: 
-    Habilidades: 
-    Experiências: 
+    Desenvolvedor 2: Luciano Ferreira Lima Gonçalves
+    Habilidades: Java e Python
+    Experiências: Em transição.
     
     
