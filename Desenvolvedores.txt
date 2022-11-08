@@ -8,8 +8,11 @@ Scrum Master: Wesley Douglas
     Desenvolvedor 1: Nathalia Catarina Cardoso
     Habilidades: Programação Python
     Experiências: Detecção de Máscara Facial 
-   
-   Desenvolvedor 2: Luciano Gonçalves
-   Habilidades: Java e Python
-   Experiencias: SAP
+
+    Desenvolvedor 2: Luciano Gonçalves
+    Habilidades: Java e Python
+    Experiencias: SAP
     
+    Desenvolvedor 2: Luciano Gonçalves
+    Habilidades: HTML, CSS, JavaScript, TypeScript, Node, Python, Rust
+    Experiencias: Desenvolvedor Front-end no IG, Analista de desenvolvimento Front-end na SETIC
