@@ -13,6 +13,6 @@ Scrum Master: Wesley Douglas
     Habilidades: Java e Python
     Experiencias: SAP
     
-    Desenvolvedor 2: Luciano Gonçalves
+    Desenvolvedor 3: Anderson Soares
     Habilidades: HTML, CSS, JavaScript, TypeScript, Node, Python, Rust
     Experiencias: Desenvolvedor Front-end no IG, Analista de desenvolvimento Front-end na SETIC
